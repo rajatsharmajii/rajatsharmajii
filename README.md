@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @rajatsharmajii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm [Your Name] 👋
 
-<!---
-rajatsharmajii/rajatsharmajii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🎯 Passionate about [your interests].
+- 💻 Currently working on [your current project].
+- 📚 Learning [technology or skill you're learning].
+- 📫 How to reach me: [your email or social media].
+
+## 🛠 Tech Stack
+- 💻 Languages: [Your programming languages]
+- 🌐 Frontend: [Frontend technologies]
+- 🔧 Backend: [Backend technologies]
+- 🗄️ Databases: [Databases]
+- 🚀 DevOps: [DevOps tools]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📌 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-profile)
+
+---
+⭐️ From [Your Name]
